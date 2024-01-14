@@ -5,7 +5,7 @@ Berikut langkah Langkah yang harus dilakukan terlebih dahulu:
 
 pip install -r requirements.txt
 
-Setelah semua terinstall lalu jalan script dengan menggunakan:
+Setelah semua terinstall lalu jalankan script dengan menggunakan:
 
 
 python3 lalana.py

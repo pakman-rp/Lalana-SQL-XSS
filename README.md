@@ -39,6 +39,9 @@ Key Decisions:
 
 
 
+
+==========================================================================
+
 Berikut langkah Langkah yang harus dilakukan terlebih dahulu:
 
 pip install -r requirements.txt

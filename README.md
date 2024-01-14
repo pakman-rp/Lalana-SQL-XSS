@@ -8,4 +8,4 @@ pip install -r requirements.txt
 Setelah semua terinstall lalu jalan script dengan menggunakan:
 
 
-python3 
+python3 lalana.py

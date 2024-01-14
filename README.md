@@ -30,8 +30,11 @@ Code Structure:
 Key Decisions:
 
 •	Payload yang digunakan untuk menguji XSS: <script>alert("XSS")</script>
+
 •	Payload yang digunakan untuk menguji SQL Injection: ' OR '1'='1' --
+
 •	Penggunaan modul requests untuk melakukan permintaan HTTP.
+
 •	Penggunaan modul BeautifulSoup untuk memparsing HTML halaman web.
 
 
